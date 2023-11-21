@@ -41,7 +41,7 @@ Unless we directly asked you to change something from your Final Project Proposa
 	- This will allow me and the TA's to listen to each piece, to ensure that it is radio appropriate.
 	- Likewise, I will be mastering all of your final works, so that they are at the appropriate loudness levels and sound like they "belong together".
 - Final Project Proposal:
-	- Your final project proposals are due: This coming **{{ site.data.dates.final_proposal}}**.
+	- Your final project proposals are due: November 20th **{{ site.data.dates.final_proposal}}**.
 
 ## Presentational Format
 

@@ -24,8 +24,8 @@ The intent of this final project is for you to create an original sonic art work
 			- Please note: I will need to spend Wednesday during the day preparing your works for radio presentation that evening. As such, we CANNOT ACCEPT ANY LATE WORK FOR THIS DEADLINE. Failure to submit on time will result in a failing grade for the course.
 	- This will allow me and the TA's to listen to each piece, to ensure that it is radio appropriate.
 	- Likewise, I will be mastering all of your final works, so that they are at the appropriate loudness levels and sound like they "belong together".
-- Final Project Proposal:
-	- Your final project proposals are due: This coming **{{ site.data.dates.final_proposal}}**.
+   
+	#- Your final project proposals are due: This coming **{{ site.data.dates.final_proposal}}**.
 
 
 

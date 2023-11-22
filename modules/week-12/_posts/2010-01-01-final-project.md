@@ -49,7 +49,7 @@ As we are planning on radio presentations, there are a number of factors for the
 
 - Length:
 	- 1 - 4 minutes.
-	- Your final project can be anywhere between 1 and 4 minutes long.
+	- Your final project can be anywhere between 1 - 4 minutes long.
 - Copyright Material:
 	- You must have all copyright for your work.
 	- Since this will be broadcast on the radio, you must ensure that all source material and all aspects of the work are your own work

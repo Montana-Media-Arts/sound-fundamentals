@@ -14,4 +14,4 @@ This is the web-based version of Intro to Sound Production & Design(MART 245) at
 - Office: McGill Hall, 232.
 
 
-Hey Sofia and Cole. Hope you are not doing well!
+

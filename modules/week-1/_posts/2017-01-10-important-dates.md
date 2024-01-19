@@ -26,8 +26,13 @@ We are currently planning for this to occur via KBGA FM 89.9
 
 We are planning on presenting your work on:
 
-- Wednesday, December 6th (with a due date of Monday, December 4th)
+TBA
 
+<!--
+- Wednesday, December 6th (with a due date of Monday, December 4th)
+-->
 You are **expected to be available during this day, from 8-10pm**. As part of these presentations, we will have you all on the online chat, interacting with each other.
 
+<!--
 **{ NOTE: }** All final project assignments will be due at the same time, likely, December 4th.
+-->

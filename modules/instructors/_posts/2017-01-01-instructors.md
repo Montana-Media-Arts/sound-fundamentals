@@ -34,7 +34,7 @@ Mondays 2:00PM - 4:00PM
 
 Wedensdays 1:30PM - 3:30PM
 
-I encourage you to send me an email indicating what questions you would like to address and so I can block out time based on your needs. 
+I encourage you to send me an email indicating what questions you would like to address and so I can block out time based on your needs. My Office is in McGill hall, RM 127 on the second floor. It is a bit difficult to find, if you email me in advance I will meet you at the main entrance.
 
 
 **Zoom-Based Office Hours**

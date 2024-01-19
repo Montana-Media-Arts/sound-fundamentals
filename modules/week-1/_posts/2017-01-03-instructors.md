@@ -13,11 +13,12 @@ The below video is semester specific and should be replaced/updated every semest
 
 {% comment %}
 
+<!--
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/11Q7tY1B1tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 {% endcomment %}
 
-
+-->
 
 
 Quick links, including email links, office hours, and lab hours, are all available from the ["Instructors"]({{site.baseurl}}/instructors/) tab above in the course menubar.
@@ -27,7 +28,7 @@ What follows is a more detailed introduction to the people delivering this class
 ## Kate Lloyd
 
 
-
+<!--
 {% comment %}
 
 ## Michael Musick
@@ -42,6 +43,7 @@ For anyone wanting to setup an appointment immediately, please feel free to stop
 
 {% endcomment %}
 
+-->
 
 > # Bio
 

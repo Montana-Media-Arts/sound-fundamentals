@@ -26,7 +26,7 @@ Quick links, including email links, office hours, and lab hours, are all availab
 
 What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team, and will be working together to deliver this experience to you.
 
-## Kate Lloyd
+## Instructor of Record - Kate Lloyd
 
 
 
@@ -67,6 +67,6 @@ If you are unable to solve problems on your own or through the course Moodle for
 
 - [cole.grant@umconnect.umt.edu]
 
-Additionally, these TAs will be available for video meetings to assist with problems.
+
 
 

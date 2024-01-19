@@ -11,10 +11,12 @@ topic: The Three Listening Modes
 
 
 Please read the following article on _The Three Listening Modes_ by Michel Chion.
+The article can be found on Moodle, via the Reading and Resources topic.
 
+<!--
 - [Article Link via Moodle](https://moodle.umt.edu/pluginfile.php/3769849/mod_resource/content/0/Chion-Modes_Of_Listening.pdf)
     - Excerpt from: _Chion, Michel, and Claudia Gorbman. “Audio-Vision: Sound on Screen.” Audio-Vision: Sound on Screen, 2019._
-
+-->
 Please particular attention so that you can discuss;
 
 - The 3 modes of listening discussed

@@ -38,7 +38,9 @@ I am excited to work with you, and guide you through the journey introducing you
 
 Please feel free to leverage my in-person or virtual office hours. I would love it if each and everyone of you would create an appointment to meet with me in the first few weeks to introduce yourself. Although I do not have an office on campus, I am happy to meet in the UC or Library,McGill computer lab just email me.  I'm also available via Zoom. 
 
-For anyone wanting to setup an appointment immediately, please feel free to stop by my in person office hours, or setup a Zoom meeting right now!
+For anyone wanting to setup an appointment immediately, please feel free to stop by my in person office hours, or setup a Zoom meeting right now! 
+
+{% endcomment %}
 
 
 > # Bio
@@ -65,4 +67,4 @@ If you are unable to solve problems on your own or through the course Moodle for
 
 Additionally, these TAs will be available for video meetings to assist with problems.
 
-{% endcomment %}
+

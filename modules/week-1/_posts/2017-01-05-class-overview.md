@@ -69,7 +69,9 @@ When you have problems in this course, you have a number of solutions available 
 
 1. Google the problem.
     - A critical skill in creative technology and media art is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=2655589).
+2. Post a discussion to the "Course help forum" on Moodle.
+   <!-- [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=2655589).
+   -->
 
 {% comment %}
 [Course Forum in Moodle](https://discord.gg/nbVCKwX)
@@ -96,7 +98,12 @@ When you have problems in this course, you have a number of solutions available 
 
 <br />
 
-
+<!--
 #### { NOTE: }
 
-A quick list of these links is available from the ["Help"]({{site.baseurl}}/help/) menubar tab above.
+A quick list of these links is available from the 
+
+
+["Help"]({{site.baseurl}}/help/) menubar tab above.
+-->
+

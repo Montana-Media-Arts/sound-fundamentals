@@ -28,12 +28,13 @@ Dr. Michael Musick built this course, which is maintained by Kate Lloyd. Please 
 
 
 #### Office Hours
-
-I will offer both in-person and virtual/Zoom-based office hours.
-
 **In-Person:**
 
-- To schedule an appoint please send me an email or TA Cole Grant an email
+Mondays 2:00PM - 4:00PM 
+Wedensdays 1:30PM - 3:30PM
+
+I encourage you to send me an email indicating what questions you would like to address and so I can block out time based on your needs. 
+
 
 **Zoom-Based Office Hours**
 
@@ -53,5 +54,8 @@ If you are unable to solve problems on your own or through the course Moodle for
 
 
 Additionally, the TA will be available for video meetings and face-to-face meetings to assist with problems. Please set these appointments up individually with the TA.
+
+- To schedule an appoint with our TA Cole Grant , please send him an email
+- Regular office hours with Cole TBA  
 
 

@@ -6,7 +6,7 @@ topic: Instructor Information
 ---
 
 <br />
-
+<!--
 {% comment %}
 The below video is semester specific and should be replaced/updated every semester
 {% endcomment %}
@@ -18,17 +18,18 @@ The below video is semester specific and should be replaced/updated every semest
 
 {% endcomment %}
 
--->
+
 
 
 Quick links, including email links, office hours, and lab hours, are all available from the ["Instructors"]({{site.baseurl}}/instructors/) tab above in the course menubar.
+-->
 
 What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team, and will be working together to deliver this experience to you.
 
 ## Kate Lloyd
 
 
-<!--
+
 {% comment %}
 
 ## Michael Musick
@@ -37,13 +38,12 @@ This course was disigned by Dr. Michael Musick. However, he is on leave this sem
 
 I am excited to work with you, and guide you through the journey introducing you to Sound Production & Design!
 
-Please feel free to leverage my in-person or virtual office hours. I would love it if each and everyone of you would create an appointment to meet with me in the first few weeks to introduce yourself. Although I do not have an office on campus, I am happy to meet in the UC or Library,McGill computer lab just email me.  I'm also available via Zoom. 
+Please feel free to leverage my in-person or virtual office hours. I would love it if each and everyone of you would create an appointment to meet with me in the first few weeks to introduce yourself. My office hours can be found under the instructor section.
 
 For anyone wanting to setup an appointment immediately, please feel free to stop by my in person office hours, or setup a Zoom meeting right now! 
 
 {% endcomment %}
 
--->
 
 > # Bio
 

@@ -31,9 +31,9 @@ This week is a chance for you to get familiarize yourself with tools on your com
 
 This course will _mostly_ run as weekly modules.
 
-When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on the {{ site.data.course.module-week-day }} of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
+When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on Moodle <!-- {{ site.data.course.module-week-day }} --> of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
 
-For example, Week 2's Module runs from {{ site.data.course.module-week-day }} to {{ site.data.course.module-week-day }}, {{ site.data.dates[2][0] }}. Therefore, you have through next {{ site.data.course.module-week-day }}, {{ site.data.dates[2][1] }} to complete the module and submit your homework. Week 3 will likewise open {{ site.data.course.module-week-day }} and run {{ site.data.dates[3][0] }}
+For example, Week 2's Module runs from January 29th through Febuary 5th<!-- {{ site.data.course.module-week-day }} to {{ site.data.course.module-week-day }}, {{ site.data.dates[2][0] }} -->. Therefore, you have one week <!--through next {{ site.data.course.module-week-day }}, {{ site.data.dates[2][1] }} --> to complete the module and to submit your homework. <!-- Week 3 will likewise open {{ site.data.course.module-week-day }} and run {{ site.data.dates[3][0] }} -->
 
 
 ## Homework
@@ -87,15 +87,16 @@ When you have problems in this course, you have a number of solutions available 
 {% endcomment %}
 
 
-3. Get help from one of our Graduate Teaching Assistants;
+3. Get help from our Graduate Teaching Assistants;
 	- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
 
 4. Get help from the Instructor;
 	- [Kate Lloyd, kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
 
-5. Get help from the Director [Michael Musick]({{site.baseurl}}/instructors/)
+
+<!-- 5. Get help from the Director [Michael Musick]({{site.baseurl}}/instructors/)
     - If you have a problem, or need help that no one can offer, please contact Michael Musick.
-    - One way to get a hold of me is to schedule a zoom, office hours appointment with me via [Calendly]  ({{site.baseurl}}/instructors/#Office-Hours).
+    - One way to get a hold of me is to schedule a zoom, office hours appointment with me via [Calendly]  ({{site.baseurl}}/instructors/#Office-Hours). -->
     
     - Or to come by my office for in-person office hours. (It would be great to meet you in person)
     - You may also email me. (I will check my email at least once a day)

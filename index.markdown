@@ -13,7 +13,7 @@ This considered the foundation course for any students wanting to proceed furthe
 <br />
 
 
-The [**syllabus**]({{ site.baseurl }}/syllabus/ ) contains more information about the course, as well as student expectations.
+<!--The [**syllabus**]({{ site.baseurl }}/syllabus/ ) contains more information about the course, as well as student expectations. -->
 
 
 This course was built by [Michael Musick, PhD]({{ site.baseurl }}/instructors/ ).

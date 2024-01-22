@@ -38,9 +38,7 @@ I am genuinely excited to work with each of you and guide you on your journey th
 
 I strongly encourage you to take advantage of the live study hall sessions. These sessions are a valuable opportunity for hands-on learning and direct support with your projects. This will be a chance for us to meet, discuss any individual learning needs, and delve into the course material together. Details about the study hall sessions, including scheduling and how to participate, will be announced once we have figured out a time that best meets everyone’s schedule.
 
-For those who wish to set up an appointment immediately, please feel free to  arrange an in-person or Zoom meeting during my office hours.
-
-For those eager to set up an appointment right away, you are more than welcome to visit during my in-person office hours or arrange a Zoom meeting at your convenience. If possible, please send me an email before hand, outlining technical issues you wish to trouble shoot.  
+For those eager to set up an appointment right away, you are more than welcome to visit during my office hours or arrange a Zoom meeting at your convenience. If possible, please send me an email before hand, outlining technical issues you wish to trouble shoot.  
 
 Looking forward to an exciting and productive semester with all of you!
 
@@ -58,8 +56,6 @@ Kate's research interests are deeply rooted in the realm of sound. She focuses o
 
 
 >
-
-
 
 
 ## Teaching Assistants

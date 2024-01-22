@@ -28,11 +28,8 @@ What follows is a more detailed introduction to the people delivering this class
 
 ## Instructor of Record - Kate Lloyd
 
-
-
 {% comment %}
 
-## Michael Musick
 
 Welcome to MART 245: Sound Production & Design
 I am delighted to inform you that while this course was originally designed by Dr. Michael Musick, I, Kate Lloyd, am now the instructor of record. Dr. Musick has taken on the role of acting Dean for the School of Visual and Media Arts.
@@ -53,12 +50,12 @@ Looking forward to an exciting and productive semester with all of you!
 
 > # Bio
 
-Kate Lloyd is a second-year graduate student in the Media Arts department. I have over 15 years of experience working in the performing arts: as a touring musician, stagecraft for theater, field recordist and sound designer for film, a foley artist for live broadcasting, and a technical director. I've also served as an audio/lighting engineer for live music production venues.
+Kate Lloyd, a second-year graduate student in the Media Arts department at the University of Montana, offers over 15 years of diverse experience in the performing arts. Her career includes being a touring musician, a stagecraft expert in theater, a field recordist, a sound designer for film, and a live broadcast foley artist. She notably served as a technical director and lighting engineer at The Stateroom, a prominent live music venue in Salt Lake City, Utah. Additionally, her role at the Red Butte Garden Amphitheater in Salt Lake City involved working directly with band managers to coordinate their transportation and other logistical needs.
 
-Current Work & Research @ UM: I currently serve as the Sound Studio Manager and assistant to the media equipment room.
+Currently, Kate is the Sound Studio Manager at the University of Montana, where she also assists in the media equipment room. Her expertise was recently highlighted in her role as the production manager and recording/mixing engineer for the University Graduate School Podcast, "Confluence," where she specialized in creating immersive soundscapes for sound design.
 
-Last fall, I was the production manager and recording/mixing engineer for the University Graduate School Podcast, "Confluence," where I also specialized in soundscapes for sound design.
-My current research interests include sound for games, immersive audio, and mobile applications for mental health.
+Kate's research interests are deeply rooted in the realm of sound. She focuses on sound for games, immersive audio, sound art, and interactive installations. Her work involves exploring the use of microcontrollers and sensors in conjunction with Cycling 74's Max MSP Jitter software. Moreover, Kate is passionate about DIY instrument creation using found objects, demonstrating her commitment to inclusivity and enabling broad participation in sound and music.
+
 
 >
 

@@ -34,13 +34,19 @@ What follows is a more detailed introduction to the people delivering this class
 
 ## Michael Musick
 
-This course was disigned by Dr. Michael Musick. However, he is on leave this semester and I am happily the instructor of record. If you have any significant problems, administrative or technical, you will need to come to me about them.
+Welcome to MART 245: Sound Production & Design
+I am delighted to inform you that while this course was originally designed by Dr. Michael Musick, I, Kate Lloyd, am now the instructor of record. Dr. Musick has taken on the role of acting Dean for the School of Visual and Media Arts.
+As your instructor, I am your primary point of contact for any significant issues, whether they are administrative or technical in nature. I encourage you to approach me with any concerns or questions you may have.
+I am genuinely excited to work with each of you and guide you on your journey through the world of Sound Production & Design. This course promises to be an enriching experience, introducing you to the fundamentals and intricacies of sound in media.
 
-I am excited to work with you, and guide you through the journey introducing you to Sound Production & Design!
+I strongly encourage you to take advantage of the live study hall sessions. These sessions are a valuable opportunity for hands-on learning and direct support with your projects. This will be a chance for us to meet, discuss any individual learning needs, and delve into the course material together. Details about the study hall sessions, including scheduling and how to participate, will be announced once we have figured out a time that best meets everyone’s schedule.
 
-Please feel free to leverage my in-person or virtual office hours. I would love it if each and everyone of you would create an appointment to meet with me in the first few weeks to introduce yourself. My office hours can be found under the instructor section.
+For those who wish to set up an appointment immediately, please feel free to  arrange an in-person or Zoom meeting during my office hours.
 
-For anyone wanting to setup an appointment immediately, please feel free to stop by my in person office hours, or setup a Zoom meeting right now! 
+For those eager to set up an appointment right away, you are more than welcome to visit during my in-person office hours or arrange a Zoom meeting at your convenience. If possible, please send me an email before hand, outlining technical issues you wish to trouble shoot.  
+
+Looking forward to an exciting and productive semester with all of you!
+
 
 {% endcomment %}
 

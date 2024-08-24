@@ -54,14 +54,14 @@ Looking forward to an exciting and productive semester with all of you!
 
 Kate Lloyd, a second-year graduate student in the Media Arts department at the University of Montana, offers over 15 years of diverse experience in the performing arts. Her career includes being a touring musician, a stagecraft expert in theater, a field recordist, a sound designer for film, and a live broadcast foley artist. She notably served as a technical director and lighting engineer at The Stateroom, a prominent live music venue in Salt Lake City, Utah. Additionally, her role at the Red Butte Garden Amphitheater in Salt Lake City involved working directly with band managers to coordinate their transportation and other logistical needs.
 
-Currently, Kate is the Sound Studio Manager at the University of Montana, where she also assists in the media equipment room. Her expertise was recently highlighted in her role as the production manager and recording/mixing engineer for the University Graduate School Podcast, "Confluence," where she specialized in creating immersive soundscapes for sound design.
+Currently, Kate is the Sound Studio Manager at the University of Montana, where she also assists in the media equipment room. Her expertise was recently highlighted in her role as the production manager and recording/mixing engineer for the University Graduate School Podcast, "Confluence," where she specialized in creating immersive soundscapes.
 
-Kate's research interests are deeply rooted in the realm of sound. She focuses on sound for games, immersive audio, sound art, and interactive installations. Her work involves exploring the use of microcontrollers and sensors in conjunction with Cycling 74's Max MSP Jitter software. Moreover, Kate is passionate about DIY instrument creation using found objects, demonstrating her commitment to inclusivity and enabling broad participation in sound and music.
+Kate's research interests are deeply rooted in the realm of sound. She focuses on audio for games, immersive audio, sound art, and interactive installations. Her work involves exploring the use of microcontrollers and sensors in conjunction with Cycling 74's Max MSP Jitter software. Moreover, Kate is passionate about DIY instrument creation using found objects, demonstrating her commitment to inclusivity and enabling broad participation in sound and music.
 
 
 >
 
-<!--
+<!--  Kate aug 24 2024
 TBD
 ## Teaching Assistants
 

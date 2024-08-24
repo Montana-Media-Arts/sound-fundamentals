@@ -30,7 +30,11 @@ Dr. Michael Musick built this course, which is maintained by Kate Lloyd. Please 
 #### Office Hours
 **In-Person:**
 
+<!--
+tbd times for this--kt
 Mondays 2:00PM - 4:00PM 
+
+-->
 
 Wedensdays 1:30PM - 3:30PM
 

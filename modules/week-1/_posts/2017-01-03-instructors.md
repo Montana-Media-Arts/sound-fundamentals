@@ -18,13 +18,17 @@ The below video is semester specific and should be replaced/updated every semest
 
 {% endcomment %}
 
+-->
+
 
 
 
 Quick links, including email links, office hours, and lab hours, are all available from the ["Instructors"]({{site.baseurl}}/instructors/) tab above in the course menubar.
--->
 
-What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team, and will be working together to deliver this experience to you.
+
+<!--What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team, and will be working together to deliver this experience to you.
+
+-->
 
 ## Instructor of Record - Kate Lloyd
 
@@ -32,13 +36,13 @@ What follows is a more detailed introduction to the people delivering this class
 
 
 Welcome to MART 245: Sound Production & Design
-I am delighted to inform you that while this course was originally designed by Dr. Michael Musick, I, Kate Lloyd, am now the instructor of record. Dr. Musick has taken on the role of acting Dean for the School of Visual and Media Arts.
-As your instructor, I am your primary point of contact for any significant issues, whether they are administrative or technical in nature. I encourage you to approach me with any concerns or questions you may have.
 I am genuinely excited to work with each of you and guide you on your journey through the world of Sound Production & Design. This course promises to be an enriching experience, introducing you to the fundamentals and intricacies of sound in media.
+
+<!--
 
 I strongly encourage you to take advantage of the live study hall sessions. These sessions are a valuable opportunity for hands-on learning and direct support with your projects. This will be a chance for us to meet, discuss any individual learning needs, and delve into the course material together. Details about the study hall sessions, including scheduling and how to participate, will be announced once we have figured out a time that best meets everyone’s schedule.
 
-For those eager to set up an appointment right away, you are more than welcome to visit during my office hours or arrange a Zoom meeting at your convenience. If possible, please send me an email before hand, outlining technical issues you wish to trouble shoot.  
+For those eager to set up an appointment right away, you are more than welcome to visit during my office hours or arrange a Zoom meeting at your convenience. If possible, please send me an email before hand, outlining technical issues you wish to trouble shoot. --> 
 
 Looking forward to an exciting and productive semester with all of you!
 
@@ -57,7 +61,8 @@ Kate's research interests are deeply rooted in the realm of sound. She focuses o
 
 >
 
-
+<!--
+TBD
 ## Teaching Assistants
 
 In addition to myself, we will be supported with a teaching assistant this semester.
@@ -66,6 +71,6 @@ If you are unable to solve problems on your own or through the course Moodle for
 
 - [cole.grant@umconnect.umt.edu]
 
-
+-->
 
 

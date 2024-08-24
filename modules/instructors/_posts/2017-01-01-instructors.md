@@ -43,6 +43,7 @@ I encourage you to send me an email indicating what questions you would like to 
 
 
 
+<!--
 
 ## Teaching Assistant/s
 
@@ -58,5 +59,7 @@ Additionally, the TA will be available for video meetings and face-to-face meeti
 
 - To schedule an appoint with our TA Cole Grant , please send him an email
 - Regular office hours with Cole TBA  
+
+-->
 
 

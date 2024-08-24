@@ -87,10 +87,14 @@ When you have problems in this course, you have a number of solutions available 
 {% endcomment %}
 
 
+<!-- TA TBD Kate 08 24 2024
+
 3. Get help from our Graduate Teaching Assistants;
 	- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
 
-4. Get help from the Instructor;
+ -->
+
+3. Get help from the Instructor;
 	- [Kate Lloyd, kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
 
 

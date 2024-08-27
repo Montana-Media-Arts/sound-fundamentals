@@ -7,16 +7,11 @@ topic: Instructor Information
 
 <br />
 <!--
-{% comment %}
 The below video is semester specific and should be replaced/updated every semester
-{% endcomment %}
-
-{% comment %}
 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/11Q7tY1B1tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-{% endcomment %}
 
 -->
 
@@ -32,8 +27,6 @@ Quick links, including email links, office hours, and lab hours, are all availab
 
 ## Instructor of Record - Kate Lloyd
 
-{% comment %}
-
 
 Welcome to MART 245: Sound Production & Design
 I am genuinely excited to work with each of you and guide you on your journey through the world of Sound Production & Design. This course promises to be an enriching experience, introducing you to the fundamentals and intricacies of sound in media.
@@ -44,7 +37,7 @@ I strongly encourage you to take advantage of the live study hall sessions. Thes
 
 For those eager to set up an appointment right away, you are more than welcome to visit during my office hours or arrange a Zoom meeting at your convenience. If possible, please send me an email before hand, outlining technical issues you wish to trouble shoot. --> 
 
-Looking forward to an exciting and productive semester with all of you!
+I am ooking forward to an exciting and productive semester with all of you!
 
 
 {% endcomment %}
@@ -59,10 +52,7 @@ Currently, Kate is the Sound Studio Manager at the University of Montana, where 
 Kate's research interests are deeply rooted in the realm of sound. She focuses on audio for games, immersive audio, sound art, and interactive installations. Her work involves exploring the use of microcontrollers and sensors in conjunction with Cycling 74's Max MSP Jitter software. Moreover, Kate is passionate about DIY instrument creation using found objects, demonstrating her commitment to inclusivity and enabling broad participation in sound and music.
 
 
->
 
-<!--  Kate aug 24 2024
-TBD
 ## Teaching Assistants
 
 In addition to myself, we will be supported with a teaching assistant this semester.
@@ -71,6 +61,6 @@ If you are unable to solve problems on your own or through the course Moodle for
 
 - [cole.grant@umconnect.umt.edu]
 
--->
+
 
 

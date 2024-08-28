@@ -44,23 +44,23 @@ I encourage you to send me an email indicating what questions you would like to 
 
 
 
-<!--
-
 ## Teaching Assistant/s
 
-In addition to myself, we will be supported with teaching assistants this semester.
+In addition to myself, we will be supported with two teaching assistants this semester.
 
-If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
+If you are unable to solve problems on your own or through the course Canvas forum (more to come on that later), you should e-mail a TA for help.
+
+- [Matthew Knight, matthew.knight@umconnect.umt.edu](mailto:matthew.knight@umconnect.umt.edu?subject=245%20Question)
 
 - [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
 
 
 
-Additionally, the TA will be available for video meetings and face-to-face meetings to assist with problems. Please set these appointments up individually with the TA.
+Additionally, they will be available for video meetings and face-to-face meetings to assist with problems. Please set these appointments up individually. 
 
-- To schedule an appoint with our TA Cole Grant , please send him an email
-- Regular office hours with Cole TBA  
 
--->
+
+
+
 
 

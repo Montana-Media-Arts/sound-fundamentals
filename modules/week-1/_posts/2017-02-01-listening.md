@@ -61,6 +61,8 @@ _Listening_ requires that a person spends mental energy making meaning of the so
 - Did you capture these subtleties?
 
 
+
+
 <div class="ref">
 <h2>References and Resources</h2>
 
@@ -68,6 +70,12 @@ The above content was adapted from:
 
 <ol>
 <li><a href="https://kim-cohen.com/wp-content/uploads/2020/07/2009_Kim-Cohen_In-The-Blink-of-an-Ear.pdf">Kim-Cohen, Seth. In the Blink of an Ear: Toward a Non-Cochlear Sonic Art. The Continuum International Publishing Group Inc, 2009, Available from: https://kim-cohen.com/wp-content/uploads/2020/07/2009_Kim-Cohen_In-The-Blink-of-an-Ear.pdf.</a></li>
-<li><a href="https://moodle.umt.edu/pluginfile.php/3785020/mod_resource/content/0/Oliveros%20-%202005%20-%20Deep%20Listening%20A%20Composer’s%20Sound%20Practice.pdf">Oliveros, Pauline. Deep Listening: A Composer’s Sound Practice. iUniverse, Inc., 2005. Available from: https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf</a></li>
+
+  <!--
+<li><a href="https://moodle.umt.edu/pluginfile.php/3785020/mod_resource/content/0/Oliveros%20-%202005%20-%20Deep%20Listening%20A%20Composer’s%20Sound%20Practice.pdf">
+
+-->
+  
+  Oliveros, Pauline. Deep Listening: A Composer’s Sound Practice. iUniverse, Inc., 2005. Available from: https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf</a></li>
 </ol>
 </div>

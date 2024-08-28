@@ -5,7 +5,6 @@ toc: true
 topic: Instructor Information
 ---
 
-<br />
 <!--
 The below video is semester specific and should be replaced/updated every semester
 
@@ -14,8 +13,6 @@ The below video is semester specific and should be replaced/updated every semest
 
 
 -->
-
-
 
 
 Quick links, including email links, office hours, and lab hours, are all available from the ["Instructors"]({{site.baseurl}}/instructors/) tab above in the course menubar.
@@ -27,9 +24,10 @@ Quick links, including email links, office hours, and lab hours, are all availab
 
 ## Instructor of Record - Kate Lloyd
 
-
 Welcome to MART 245: Sound Production & Design
 I am genuinely excited to work with each of you and guide you on your journey through the world of Sound Production & Design. This course promises to be an enriching experience, introducing you to the fundamentals and intricacies of sound in media.
+
+I am looking forward to an exciting and productive semester with all of you!
 
 <!--
 
@@ -38,8 +36,6 @@ I strongly encourage you to take advantage of the live study hall sessions. Thes
 For those eager to set up an appointment right away, you are more than welcome to visit during my office hours or arrange a Zoom meeting at your convenience. If possible, please send me an email before hand, outlining technical issues you wish to trouble shoot.
 
 --> 
-
-I am looking forward to an exciting and productive semester with all of you!
 
 
 # Bio

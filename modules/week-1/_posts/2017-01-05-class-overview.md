@@ -8,7 +8,10 @@ topic: What Will This Course Be Like?
 
 <br />
 
+<!-- REPLACE video -kt
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/M_-cOqGJrps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+-->
 
 
 Now that you have gone through the syllabus, along with its technical details and policies, let's talk about what this course will actually look like.
@@ -31,18 +34,20 @@ This week is a chance for you to get familiarize yourself with tools on your com
 
 This course will _mostly_ run as weekly modules.
 
-When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on Moodle <!-- {{ site.data.course.module-week-day }} --> of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
+When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on Canvas <!-- {{ site.data.course.module-week-day }} --> of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Canvas1 might be on hiatus and then sad things can happen.
 
-For example, Week 2's Module runs from January 29th through Febuary 5th<!-- {{ site.data.course.module-week-day }} to {{ site.data.course.module-week-day }}, {{ site.data.dates[2][0] }} -->. Therefore, you have one week <!--through next {{ site.data.course.module-week-day }}, {{ site.data.dates[2][1] }} --> to complete the module and to submit your homework. <!-- Week 3 will likewise open {{ site.data.course.module-week-day }} and run {{ site.data.dates[3][0] }} -->
+For example, Week 2's Module runs from September 6th through September 13th 
+<!-- {{ site.data.course.module-week-day }} to {{ site.data.course.module-week-day }}, {{ site.data.dates[2][0] }} -->. 
+Therefore, you have one week <!--through next {{ site.data.course.module-week-day }}, {{ site.data.dates[2][1] }} --> to complete the module and to submit your homework. <!-- Week 3 will likewise open {{ site.data.course.module-week-day }} and run {{ site.data.dates[3][0] }} -->
 
 
 ## Homework
 
 You should consider anything within the course lecture content under a **_{ TODO: }_** section to be part of your "homework".
 
-You will receive additional directives and notes about homework assignments on the Moodle Shell every week.
+You will receive additional directives and notes about homework assignments on the Canvas Shell every week.
 
-Most homework assignments will be submitted to a course discussion forum on Moodle. This will allow you and your classmates to see each others assignments, as well as how you each chose to solve the set of problems, without posting links for the whole world to see. You will also be expect to comment and respond to your colleagues works. I think it is critical that you are aware of the work each other is making. This is my current solution to address this need. Further instructions will be provided about how to do this.
+Most homework assignments will be submitted to a course discussion forum on Canvas. This will allow you and your classmates to see each others assignments, as well as how you each chose to solve the set of problems, without posting links for the whole world to see. You will also be expect to comment and respond to your colleagues works. I think it is critical that you are aware of the work each other is making. This is my current solution to address this need. Further instructions will be provided about how to do this.
 
 
 ## Your Organization
@@ -69,11 +74,10 @@ When you have problems in this course, you have a number of solutions available 
 
 1. Google the problem.
     - A critical skill in creative technology and media art is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post a discussion to the "Course help forum" on Moodle.
+2. Post a discussion to the "Course help forum" on Canvas.
    <!-- [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=2655589).
    -->
 
-{% comment %}
 
 <!--
 [Course Forum in Moodle](https://discord.gg/nbVCKwX)
@@ -84,15 +88,16 @@ When you have problems in this course, you have a number of solutions available 
     - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
     - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
     -->
-{% endcomment %}
 
 
-<!-- TA TBD Kate 08 24 2024
+4. Get help from our Graduate Teaching Assistants;
 
-3. Get help from our Graduate Teaching Assistants;
+ 	- [Matthew Knight, matthew.knight@umconnect.umt.edu](mailto:matthew.knight@umconnect.umt.edu?subject=245%20Question)
+
+
 	- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
 
- -->
+
 
 3. Get help from the Instructor;
 	- [Kate Lloyd, kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
@@ -108,16 +113,17 @@ When you have problems in this course, you have a number of solutions available 
     - You may also email me. (I will check my email at least once a day)
         - [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=245%20Question)
 
- -->
+
 
 <br />
 
-<!--
+
 #### { NOTE: }
 
 A quick list of these links is available from the 
 
 
 ["Help"]({{site.baseurl}}/help/) menubar tab above.
+
 -->
 

@@ -39,7 +39,7 @@ For those eager to set up an appointment right away, you are more than welcome t
 
 --> 
 
-I am ooking forward to an exciting and productive semester with all of you!
+I am looking forward to an exciting and productive semester with all of you!
 
 
 # Bio

@@ -76,6 +76,9 @@ The above content was adapted from:
 
 -->
   
-  Oliveros, Pauline. Deep Listening: A Composer’s Sound Practice. iUniverse, Inc., 2005. Available from: https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf</a></li>
+  Oliveros, Pauline. Deep Listening: A Composer’s Sound Practice. iUniverse, Inc., 2005.
+  <!--
+  Available from: https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf</a></li>
 </ol>
 </div>
+-->

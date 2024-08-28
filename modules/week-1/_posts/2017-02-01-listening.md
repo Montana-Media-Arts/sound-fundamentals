@@ -28,6 +28,7 @@ topic: Intro to Listening
 _Listening_ is something that we, as humans, _do_ through our sense of hearing. We will discuss this in more depth later in the semester, but as sound waves reach our ears, the physical movement of our ear drums starts a process that results in tiny hair cell receptors in our inner-ear sending electrical signals to our brain indicating the presence of specific frequencies at various amplitudes or loudness.
 
 Our sense of hearing is what allows us to _listen_ to what is occurring around us. Hearing is the physical act of processing physical sound in our environment. Hearing is something that most peoples bodies do _ALL OF THE TIME_. Unlike the eye, humans cannot turn off their sense of hearing. As many have pointed out, you cannot "blink an ear".
+
 <!--
 
 > "The blink of an eye lasts three hundred milliseconds. The blink of an ear lasts considerably longer. From birth to death, the ear never closes. "

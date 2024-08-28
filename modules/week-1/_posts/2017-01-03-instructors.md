@@ -35,15 +35,14 @@ I am genuinely excited to work with each of you and guide you on your journey th
 
 I strongly encourage you to take advantage of the live study hall sessions. These sessions are a valuable opportunity for hands-on learning and direct support with your projects. This will be a chance for us to meet, discuss any individual learning needs, and delve into the course material together. Details about the study hall sessions, including scheduling and how to participate, will be announced once we have figured out a time that best meets everyone’s schedule.
 
-For those eager to set up an appointment right away, you are more than welcome to visit during my office hours or arrange a Zoom meeting at your convenience. If possible, please send me an email before hand, outlining technical issues you wish to trouble shoot. --> 
+For those eager to set up an appointment right away, you are more than welcome to visit during my office hours or arrange a Zoom meeting at your convenience. If possible, please send me an email before hand, outlining technical issues you wish to trouble shoot.
+
+--> 
 
 I am ooking forward to an exciting and productive semester with all of you!
 
 
-{% endcomment %}
-
-
-> # Bio
+# Bio
 
 Kate Lloyd, a third year Graduate student in the Media Arts department at the University of Montana, offers over 15 years of diverse experience in the performing arts. Her career includes being a touring musician, a stagecraft expert in theater, a field recordist, a sound designer for film, and a live broadcast foley artist. She notably served as a technical director and lighting engineer at The Stateroom, a prominent live music venue in Salt Lake City, Utah. Additionally, her role at the Red Butte Garden Amphitheater in Salt Lake City involved working directly with band managers to coordinate their transportation and other logistical needs.
 
@@ -55,10 +54,12 @@ Kate's research interests are deeply rooted in the realm of sound. She focuses o
 
 ## Teaching Assistants
 
-In addition to myself, we will be supported with a teaching assistant this semester.
+In addition to myself, we will be supported with a two teaching assistant this semester.
 
 If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
 
+- [matthew.knight@umconnect.umt.edu]
+  
 - [cole.grant@umconnect.umt.edu]
 
 

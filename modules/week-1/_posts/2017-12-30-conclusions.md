@@ -14,7 +14,7 @@ That is it for Week 1. I hope you are excited for this course and everything we 
 
 If you have not noticed yet, active module dates are posted up above, along with the deadline for the week's homework.
 
-As a gentle reminder, you homework is due by January 29.
+As a gentle reminder, you homework is due by September 13th.
 
 
 # Next Week

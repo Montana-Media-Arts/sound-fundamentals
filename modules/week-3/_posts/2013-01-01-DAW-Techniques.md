@@ -16,6 +16,8 @@ There are a few techniques that will help you in your work this week.
 
 ## Save Project and Store New Media to "Media" Directory
 
+** IF YOU HAVENT ALREADY DONE SO, MAKE SURE YOU IMPORT THE PREFERECE FILE I PROVIDED ON LAST WEEKS CANVAS MODULE AMD BE SURE TO FOLLOW THR TUTORIAL WITH IT! **
+
 When we open Reaper, the first thing to do is Create a "New Project." This will be necessary if Reaper reopened a previously open session. You can create a new project under the main File menu.
 
 After creating a new project, before we do ANYTHING ELSE, we should save the project. When you save your project remember to do the following;

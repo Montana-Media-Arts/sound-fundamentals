@@ -14,6 +14,33 @@ cover_image_file: louis_bebe_barron_studio.jpg
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MYrZf6_9eZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
+
+
+It seems obvious now, but sound as a medium in art was revolutionary, whether visual artists were escaping the limits of their craft or musicians were pushing beyond traditional music boundaries.
+
+**Tech = The Game Changer**
+
+The microphone, arguably the most important tech for sound art, completely transformed how we engage with sound. It lets us **capture**, **amplify**, and even **dislocate sound** from time and space. This tech paved the way for a new relationship with sound, reshaping the entire sonic landscape.
+
+**Five Tech Pillars of Sound Art:**
+
+1. **Capture — Microphones**  
+   Microphones turn real-world sound waves into electrical signals. Suddenly, we could broadcast quiet whispers across radio waves or capture intricate sounds—from delicate bird calls to massive symphonies. The microphone gave artists precise control over each sound, making the listener feel like they’re right in the middle of the music.
+
+2. **Creation — Electronic Instruments & Synthesis**  
+   Electric guitars, Theremins, synths—these tools unleashed a wave of new sounds. With analog or digital synths like Moogs or SuperCollider, artists could create soundscapes that once only existed in their imagination, mirroring the evolving sounds of the modern world.
+
+3. **Storage/Transmission — Radio, Tape & Digital Audio**  
+   Before tech, sound was fleeting. But recording on tape, wax cylinders, and later digital formats, allowed sound to be stored and played back whenever we wanted. You could send a message across cities via radio or capture the essence of a moment for future listeners—forever changing the way we thought about sound.
+
+4. **Manipulation — Signal Processing**  
+   Tape tech allowed artists to splice, reverse, and change playback speeds. Soon, we had ways to mix sounds, tweak frequencies, add reverb, and mold audio like clay—allowing sound to be sculpted after capture.
+
+5. **Reproduction — Speakers & Amplification**  
+   The speaker, a microphone’s counterpart, converts electrical signals back into sound waves. This allowed dislocated sounds to reach listeners anywhere—whether through radio or recorded media.
+
+
+<!--
 Even though the term _sound art_ was not used until the 1970's, the idea of art that existed with or dealt with the sonic clearly started to take hold during the 20th century.
 
 It seems obvious now that artistic practice would incorporate sound as a medium for expression, experimentation, and exploration; regardless of whether this was by visual artists who sought to break away from the confines of visual art artifacts, or musicians wanting to move beyond socially accepted notions of music.
@@ -55,6 +82,8 @@ These capabilities offered artists and musicians the ability to manipulate sound
 The last, and equally crucial technology, is the opposite of a microphone, which is reproduction of electrical audio signals through speakers. Speakers are another type of transducer that converts electrical audio signals back into physical audio waves.
 
 Speakers allowed for the reproduction of dislocated audio, be that through radio transmission or storage on a physical medium.
+
+-->
 
 
 <div class="ref">

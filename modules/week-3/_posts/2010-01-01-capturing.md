@@ -30,7 +30,7 @@ There are two major mobile-phone operating systems (OS), iOS and Android. Both p
 - You can download it from the App Store on an iphone and the Google Play store on an Android.
 - Its Free.
 
-- I will record another video this week demonstrating how I might aapproach recording a soundwalk with my phone as well as go through settings I would like you to change.
+- I will record another video this week demonstrating how I might approach recording a soundwalk with my phone as well as go through settings I would like you to change.
 
 - For now, get familiar with how to use and naviagte the app. Additinally I will walk through getting the differnt ways to easily share with Reaper.
   

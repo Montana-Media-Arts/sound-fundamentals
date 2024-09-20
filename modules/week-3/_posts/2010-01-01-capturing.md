@@ -19,14 +19,24 @@ And on top of all of this, you are taking this class as an asynchronous, distanc
 
 Your mobile-device (typically a smart phone), comes with built-in microphone. This is a compromised device with respect to capturing high-quality recordings (as you will learn more about later this semester). This is because microphones on phones are optimized for voice-based sound/communication. Some optimizations include frequency equalization to emphasize voice, and typically also include reduced frequency range pick-up. However, they are always in your pocket, do not cost you additional money, and are "good enough" to capture a lot of interesting and usable sounds.
 
-# Suggested Mobile-Computing Apps
+# Suggested Mobile-Computing App
 
 When considering an app for recording/capturing audio on your mobile device there are a number of factors that you should consider. Chief among them is the ability to record audio at a high-resolution (so-called, _lossless, uncompressed_ audio), as opposed to compressed audio. The resulting filetype that we are typically looking for is either Waveform audio files (`.wav`) or AIFF (Audio Interchange File Format, `.aiff` or `.aif`). These filetypes will create larger file sizes (compared to `.mp3`, `.aac`, `.flac`, or `.m4a`) and the audio will not have been compressed in anyway beyond the initial alterations that occur through the analog-to-digital conversion process.
 
-There are obviously two major mobile-phone operating systems (OS), iOS and Android. Both OS's have built-in recording applications. Additionally, these built-in apps should have the ability to select the use of `.wav` or `.aiff` filetypes.
+There are two major mobile-phone operating systems (OS), iOS and Android. Both phone operating systems have built-in recording applications. Additionally, these built-in apps should have the ability to select the use of `.wav` or `.aiff` filetypes.
 
-In addition to these two apps, I will also suggest you consider;
+-We will be using an app caled Dolby-On. 
+- [Dolby-On mobile recording app](https://www.dolby.com/apps/dolby-on/)
+- You can download it from the App Store on an iphone and the Google Play store on an Android.
+- Its Free.
 
+- I will record another video this week demonstrating how I might aapproach recording a soundwalk with my phone as well as go through settings I would like you to change.
+
+- For now, get familiar with how to use and naviagte the app. Additinally I will walk through getting the differnt ways to easily share with Reaper.
+  
+ <iframe width="600" height="400" src="https://www.youtube.com/embed/n6UVVpXc8Og?si=-RwP6YDsXW-sB_3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!--
 - [ShurePlus MOTIV mobile recording app](https://www.shure.com/en-US/products/software/shure_plus_motiv)
 
 The ShurePlus MOTIV is what I will demo for this class, as it is available on both major OS's, the operation is similar, and it is a high quality recording application.
@@ -120,3 +130,4 @@ Now that the file is on your computer, you can drop it in Reaper like you learne
 # Video Walkthrough
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QEjgEnNGB4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+-->

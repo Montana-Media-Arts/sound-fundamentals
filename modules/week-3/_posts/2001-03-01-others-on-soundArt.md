@@ -9,7 +9,7 @@ topic: Others Talk About Sound Art
 
 **_{ TODO: }_**
 
-Please read the following two discussions on Sound Art.
+Please read the following discussion on Sound Art.
 
 
 - [Within a Grain of Sand: Our Sonic Environment and Some of Its Shapers -- Sounding Out!](https://soundstudiesblog.com/2011/05/23/within-a-grain-of-sand/)

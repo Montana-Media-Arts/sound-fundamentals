@@ -58,8 +58,9 @@ I highly recommend reading these two short soundwalk guides before starting your
 
 A soundwalk can also be something that is recorded. To do so, a practitioner may either carry a recording device in their hands, or utilize ear-worn mics,so that they can more seamlessly exist on their walk. This is how binaural audio recording is done, using a technique known as dummy head recording, wherein a mannequin head is fitted with a microphone in each ear. These "dummy heads" are priced around $9,950.00! 
 **Binaural recording is intended for replay using headphones and will not translate properly over stereo speakers. These days, theres an actual mic for it!
-<!--website is down--kt
-The below image is one example of a microphone being worn in my ear. (I recorded a binaural piece a number of years ago out at [Coney Island in NYC](https://michaelmusick.com/coney-island-is-here/))
+<!-- website is down , kt  [Coney Island in NYC](https://michaelmusick.com/coney-island-is-here/)) -->
+
+The below image is one example of a microphone being worn in my ear. (I recorded a binaural piece a number of years ago out at Coney Island in NYC.
 
 ![Example of an in-ear microphone](../imgs/in-ear-mic.jpeg "Example of an in-ear microphone")
 

@@ -97,4 +97,4 @@ In the meantime, as you are work on your individual projects, I encourage you to
 
 In addition to the above reading, please also read chapters 1-4 in;
 
-- [Owsinski, Bobby. _The Mixing Engineer's Handbook_, Mix Books, 1999.](https://canvas.umt.edu/courses/9737/files?preview=937216)
+- [Owsinski, Bobby. _The Mixing Engineer's Handbook_, Mix Books, 1999.](https://canvas.umt.edu/courses/9737/files/937222?module_item_id=860048)

@@ -8,7 +8,7 @@ topic: DAW Techniques for This Week
 
 
 <br />
-
+<!--
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_e-yz1XBPlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -62,6 +62,8 @@ For this assignment, I would encourage you to mute any unused audio (i.e. audio 
 
 Muted audio items/regions will be "greyed" out, and have an "m" in the top-right of the audio item/region.
 
+-->
+
 ## Normalize Audio
 
 I also want you to normalize your audio. _Normalizing_ is where we analyze an entire audio region in order to find the single 'loudest' sample or moment in the region. Normalizing determines the difference between this sample and some set level. By default, this set level is 0dBFS. The process then determines how much gain to add to the sample to make it equivalent to 0dBFS. The _ENTIRE_ region is then multiplied by this same factor, thereby raising the gain or amplitude of the entire region by that amount.
@@ -112,6 +114,8 @@ Once you see the fade-mouse-pointer-icon, you can click and drag to the desired 
 
 After applying a fade-in/out, you should listen to it, and adjust the length based on what you determine the appropriate length should be.
 
+<!--
+
 #### Add a Fade With Item Properties Window
 
 You can also add a fade-in/out by setting their length in the item properties window. To open the item properties window (again), press the "i" in the top-left corner of the audio item/region. You can also right click and select "item properties" from the item/region menu, or select a region with your mouse and press `f2`.
@@ -155,3 +159,4 @@ Finally, select "Render" from the main "File" menu.
 6. Finally click "Render 1 file"
 
 ![Render pup-up window, with appropriate settings](../imgs/renderWindow.png "Render pup-up window, with appropriate settings")
+-->

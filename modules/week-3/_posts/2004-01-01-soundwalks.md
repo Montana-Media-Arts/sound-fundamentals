@@ -19,35 +19,38 @@ Hildegard Westerkamp is credited with the creation of this term and practice.
 
 <br />
 
-**_{ TODO: }_**
+**_{ OPTIONAL: }_**
 
-Please read about Hildegard Westerkamp:
+If you are interested, you can read about Hildegard Westerkamp:
 
-\
+
 Hildegard Westerkamp, born in Osnabrück, Germany in 1946, moved to Canada in 1968 and has lived on the ancestral lands of the Coast Salish peoples ever since. After studying music at the University of British Columbia, she joined the World Soundscape Project at Simon Fraser University (SFU) under R. Murray Schafer. This experience deeply shaped her thinking about sound, music, and the environment, ultimately leading to her career in soundscape composition.
+
+<!--
 
 In 1978-79, Westerkamp produced and hosted the radio program *Soundwalking* on Vancouver Co-operative Radio, which was key to her work in acoustic ecology. Influenced by composers like John Cage and Pauline Oliveros, she explored soundscapes—both urban and natural—and incorporated voices, noise, and environmental sounds into her compositions.
 
 Westerkamp taught at SFU until 1990, published numerous articles on acoustic ecology, and traveled internationally, giving lectures and workshops. In 1993, she helped found the World Forum for Acoustic Ecology and edited its journal *Soundscape* for over a decade.
 
+-->
 Her work has been performed globally and featured in films by Gus Van Sant, such as *Elephant* and *Last Days*. She continues to collaborate with other artists, creating sound installations and electroacoustic compositions. In 2024, Westerkamp received an honorary Doctor of Fine Arts degree from Simon Fraser University for her contributions to the field of sound art and acoustic ecology.
 
 Westerkamp’s legacy endures through her mentorship of emerging artists and her pioneering work in listening and soundscape studies.
 
 
 <br />
-
+<!--
 
 I would also like you to read the following writing about soundwalks by Westerkamp from one of her works _NADA_. In particular, I want you to pay attention to how she relates soundwalks to soundscape. Additionally, there is a list of tips for a soundwalk. Please take a soundwalk, and contemplate each of these tips individually while on your walk.
 
 - [Sound Walk - Hildegard Westerkamp](https://www.hildegardwesterkamp.ca/sound/installations/Nada/soundwalk/)
 
 <br />
-<!-- kt
+kt
 I would also like you to read the following two articles further discussing soundwalks.
 -->
 
-I highly recommend reading these two short soundwalk guides before starting your soundwalk. It will help you plan and offer ideas/sugestions and give you a better idea on what I am looking for in this weeks homework assignments.
+OPTIONAL -I highly recommend reading these two short soundwalk guides before starting your soundwalk. It will help you plan and offer ideas/sugestions and give you a better idea on what I am looking for in this weeks homework assignments.
 
 - [_Soundwalking_ by Hildegard Westerkamp, 2001.](https://www.hildegardwesterkamp.ca/writings/writingsby/?post_id=13&title=soundwalking)
 - [_A Pocket Guide to Soundwalking_. Antonella Radicchi, 2017. (PDF Download)](https://github.com/Montana-Media-Arts/intro-to-sonic-arts/raw/master/resources/Radicchi_2017_A-Pocket-Guide.pdf)
@@ -69,5 +72,6 @@ The below image is one example of a microphone being worn in my ear. (I recorded
 
 Soundwalks can also focus on non-traditional types of sonic events. The following link discusses the ideas of soundwalks in relation to a different kind of sound-event.
 
+Optional Information--
 - [The “Electrical Walks” of Christina Kubisch](https://christinakubisch.de/electrical-walks)
 

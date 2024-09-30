@@ -11,12 +11,16 @@ cover_image_file: louis_bebe_barron_studio.jpg
 
 <br />
 
+<!-- kt
+
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MYrZf6_9eZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+-->
 
 
 
-It seems obvious now, but sound as a medium in art was revolutionary, whether visual artists were escaping the limits of their craft or musicians were pushing beyond traditional music boundaries.
+
+Sound as a medium in art was revolutionary, whether visual artists were escaping the limits of their craft or musicians were pushing beyond traditional music boundaries.
 
 **Tech = The Game Changer**
 

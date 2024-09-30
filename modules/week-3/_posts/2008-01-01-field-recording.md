@@ -22,10 +22,10 @@ Let's first gain an understanding of the history of this practice by reading Mar
 
 > ## A Sound Artist's Breakdown of Field Recording over History
 > 
-> Please read the following Article by Maria Chavez and Kristina Warren
+> Optional reading, Article by Maria Chavez and Kristina Warren
 > [[Chavez, Maria & Warren, Kristina. A Sound Artist's Breakdown of Field Recording Over History. 2022.]](https://moodle.umt.edu/pluginfile.php/3981141/mod_resource/content/0/A_Sound_Artist_s_Breakdown_of_Field_Reco.pdf) 
 
-
+<!--
 
 ## Ego in Field Recording
 
@@ -33,9 +33,11 @@ Field recordings may also work to capture small sounds, unusual sounds, or play 
 
 These seemingly innocuous choices all impart ego and choice, and ultimately affect the way that the recording is captured and is experienced by the listener. As a result, since no capture of the real world (regardless of whether it is visual, sonic, or otherwise) can be done without imparting the ego from the individual capturing the phenomenon, modern field recording sound artists have realized that in addition to trying to capture the world "as it is," there is also significant value and reason to capture phenomenon of the world through conscious choices that emphasize or highlight aspects.
 
+
+
 > ## A Beginner’s Guide To… Field Recording
 >
-> Please read the following article by Lawrence English
+> Optional Reading, article by Lawrence English
 >
 > [English, Lawrence. A Beginner’s Guide To… Field Recording. in FACT. 2014.](https://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/)
 >
@@ -43,7 +45,10 @@ These seemingly innocuous choices all impart ego and choice, and ultimately affe
 
 
 
+
+
 <br />
+
 
 
 
@@ -53,8 +58,11 @@ The following example is from Toshiya Tsunoda, a Japanese Sound Artist known for
 
 This is not to suggest that there is no ego in more traditional soundscape works. As evident by the above logic, there is no way of escaping ego from affecting the resulting sound art work.
 
+-->
+
 
 <br />
+## OPTIONAL Resources Below
 
 The following work, "La Selva", is from musician and sound artist Francisco López. It explores the rich composition that can emerge through soundscape-style artworks. Please read the following article by López on this work and then listen to it (I encourage you to listen to the entire work, but you are welcome to skip around and instead only experience portions of the 1+ hour long work).
 
@@ -79,6 +87,6 @@ The following work, "La Selva", is from musician and sound artist Francisco Lóp
 <br />
 
 
-Please also watch the following video on field-recording artists working at the edge of soundscape art;
+Field-recording artists working at the edge of soundscape art;
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/esfUwg1-xrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

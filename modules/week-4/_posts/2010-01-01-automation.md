@@ -119,6 +119,9 @@ To see and edit pan automation envelopes, select the track automation window aga
 
 ![Example of showing and editing pan automation envelopes for a specific track.](../imgs/pan-auto.gif "Example of showing and editing pan automation envelopes for a specific track.")
 
+<!-- moving to end as "optional" reading--kt and updated link to 2024
+
 # **_{ TODO: }_**
 
 To learn more about automation, I would suggest you read [chapter 18, from the Reaper User Guide](https://www.reaper.fm/userguide.php).
+-->

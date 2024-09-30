@@ -92,9 +92,10 @@ This idea of _even-ness_ is a significant one, especially when working in popula
 
 In the meantime, as you are work on your individual projects, I encourage you to try and change the "hat". Where at some point you stop listening as a creator, but instead listen to whether the "mix" sounds even. Do you feel a need to adjust volume constantly, can you hear everything you want to at all moments, is the work even with respect to timbre and harshness?
 
-
+<!-- moving to end as extra resources--kt
 ## **_{ TODO: }_**
 
 In addition to the above reading, please also read chapters 1-4 in;
 
 - [Owsinski, Bobby. _The Mixing Engineer's Handbook_, Mix Books, 1999.](https://canvas.umt.edu/courses/9737/files/937222?module_item_id=860048)
+-->

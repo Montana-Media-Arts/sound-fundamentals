@@ -23,7 +23,7 @@ I want you to approach this two ways.
 
 ## 1. Capture a soundscape.
 
-Place your phone somewhere that captures a soundscape. This soundscape should include a multitude of sonic events, interacting with each other in time. Your phone should be placed such that it is able to pick-up a wide range of sounds from an area.
+Open your Dolby-On recording phone app. Place your phone somewhere that captures a soundscape. This soundscape should include a multitude of sonic events, interacting with each other in time. Your phone should be placed such that it is able to pick-up a wide range of sounds from an area. Hit Record!
 
 For this assignment, I would like your soundscape to be captured outside. It can be busy with lots of sounds, or it can be quite sparse, instead emphasizing a few events over time.
 

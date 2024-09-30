@@ -11,8 +11,11 @@ cover_image_file: mics-in-field.jpg
 
 <br />
 
+<!--
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dsWPQfhVQ60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+-->
 
 Your main goal this week is to go out and capture field recordings of your world.
 

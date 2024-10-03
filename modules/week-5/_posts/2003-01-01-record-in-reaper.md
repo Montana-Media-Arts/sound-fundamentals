@@ -87,9 +87,11 @@ The alternative method is to actually select separate devices within Reapers pre
 
 Supposedly, this method is less efficient and has a tendency to introduce excessive latency. So the first method is preferred. However, for our current purposes, either will work fine.
 
+<!--
 > **Latency** is the time it take for a sound to get captured by a microphone, pass through Reaper, then get played through a corresponding speaker. When recording musicians who are playing together live, latency needs to be low enough that it is not perceptually noticeable.
 >
 > For more on latency, please read [“Living With Latency” Sound on Sound, 2007.](https://www.soundonsound.com/techniques/living-latency).
+-->
 
 ## Open Routing
 

@@ -7,6 +7,7 @@ math: false
 topic: Recording Directly in Reaper
 ---
 
+## OPTIONAL MATERIAL ON  Recording Directly in Reaper--NOT MANDATORY ##
 Up to this point in the semester, you have always recorded using your mobile phone, then brought the files into the DAW (Reaper). This method was taught and utilized, as it allowed you to capture sound events anywhere you could take your phone. Likewise, it allowed you to place the microphone on your phone close or far away from the sounding source, there by increasing the proximity of the sound in the captured file.
 
 There are, however, obviously times that you will want to be able to record directly into Reaper.

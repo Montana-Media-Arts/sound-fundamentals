@@ -9,6 +9,12 @@ cover_image: true
 cover_image_file: complex-wave.png
 ---
 
+I know that alot of these concepts are foregin and can seem intimidating when we talk about physics and math. YOU DO NOT HAVE TO KNOW OR UNDERSTAND PHYSICS, or even be good at math to implement and explore these concepts in Reaper. 
+
+Keep Going!
+
+<!----
+
 As mentioned previously, all sounds in our world can be described as or broken down into a series of sinusoidal waves, added together, with various amplitudes and phases.
 
 Obviously not all sounds, signals, or waves that we work with will be simple sine waves. For example, the audio files that you have been working with in Reaper, visualized in the arrangement view, are clearly more complex than simple sine waves.
@@ -143,3 +149,5 @@ Let's now hear and watch the relationship of this $$2:3$$ ratio, using the frequ
 The next video demonstrates the result of various frequency ratios between two sine waves.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HT6IhF_7sdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+-->

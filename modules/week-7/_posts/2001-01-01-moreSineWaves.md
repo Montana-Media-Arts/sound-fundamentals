@@ -14,11 +14,18 @@ cover_image_file: moreSines-cover.png
 
 ## The Building Blocks for All Sounds
 
+
+## The Sine Wave 
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UrBZsUBibtk?si=dTph5hb1pnVun67x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!--
+
 Before we get into complex waves, let's dive a little deeper into _sine waves_. A _sine wave_ or _sinusoidal wave_ is a basic building block of audio. As mentioned multiple times, all sounds can be broken down and described as a series of sine waves at various amplitudes and initial phases.
 
 This type of signal is essentially an "unwrapped" circle. This is important to understand, as it allows for a visual connection to the simplicity and beauty of sine waves. Just as a circle is one of the fundamental building blocks for many visual compositions, we can think of the circle (or rather it's sine wave representation) as a fundamental building block for sound.
-
-## Sine Wave Formula
 
 The sine function (if you remember back to trigonometry), along with the related cosine function, can be used to describe the $$x$$ and $$y$$ coordinates on the unit circle for any angle ($$t$$). (_Angles will be written in radians. I.E. With respect to pi, $$\pi$$_)
 
@@ -247,3 +254,5 @@ Notice, as you interact with the following, the qualities of this signal. Try to
 			</td>
 	</tr>
 </table>
+
+-->

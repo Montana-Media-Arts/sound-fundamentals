@@ -8,6 +8,11 @@ topic: Capture and Record the Live Output from Reaper
 cover_image: false
 cover_image_file: cover.jpg
 ---
+## THIS IS OPTIONAL!! MOVE TO THE NEXT PAGE UNLESS YOU ARE CURIOUS AND HAVE EXTRA TIME!!
+
+
+
+
 
 As was demonstrated on the last page, it is possible to capture live performances from within Reaper. This page explicitly outlines the steps needed to accomplish this.
 

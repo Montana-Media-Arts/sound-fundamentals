@@ -49,7 +49,7 @@ As we are planning on radio presentations, there are a number of factors for the
 
 - Length:
 	- 1 - 3 minutes.
-	- Your final project can be anywhere between 1 - 4 minutes long.
+	- Your final project can be anywhere between 1 - 3 minutes long.
 - Copyright Material:
 	- You must have all copyright for your work.
 	- Since this will be broadcast on the radio, you must ensure that all source material and all aspects of the work are your own work
@@ -67,15 +67,16 @@ As we are planning on radio presentations, there are a number of factors for the
 For this work, you need to adhere to or accomplish the following technical specifications;
 
 1. **Final File Type** - This work should be exported as a stereo, digital audio file (`.wav.` or `.aiff`), with a sample rate of 441.kHz or 48kHz, and a bit depth of 24bits.
-2. **Time Requirements** - Your final work should be between 1:00 and 4:00 minutes.
+2. **Time Requirements** - Your final work should be between 1:00 and 3:00 minutes.
 3. **Work Investment** - Since this is a final project, you should plan to invest approximately 2 weeks worth of a normal homework assignment times requirement. I.E. if it normally takes you 3-6 hours to complete a homework assignment for this course, you should plan on a final project that you think will take you between 6-12 work hours.
-4. **Final Amplitude Levels** - You should ensure that your final audio file contains no clipping or amplitude overages (i.e. amplitude or peaks above $$0.0dBFS$$). Ideally, you should aim to have a file with an amplitude peak of $$-1.0dBFS$$.
+4. **Final Amplitude Levels** - You should ensure that your final audio file contains no clipping or amplitude overages (i.e. amplitude or peaks above $$0.0dBFS$$). Ideally, you should aim to have a file with an amplitude peak of $$-1.0dBFS$$. AKA make sure the track is not clipping--"in the red."
+5.  I highly encourage you to listen to your track on several devices--in your car, headphones, computer audio etc.--this will help you gauge wether its loud enough, to loud or any other adjustments you might want to make.
 
 ## Deliverables
 
 In addition to a digital audio file (as mentioned above) which constitutes the actual sonic art work, you will need to supply a number of additional materials.
 
-- A 1-2 page discussion about this work. Please write about;
+- A discussion about this work. Please write about;
 	- **A brief (1-4 sentence) description of your work** that would be appropriate to read on air (if time allows).
 	- The name of your work
 	- The name you want to be represented with for your work

@@ -92,4 +92,5 @@ Please, upload your final versions to Canvas by the posted deadline!
 
 ## Classmate Responses
 
-In addition to submitting your own final project, you will be expected to listen to the _Something Else_ show in order to reflect upon the entire classes projects. More info to come on this closer to the show itself.
+In addition to submitting your own final project, you will be expected to listen to the _Something Else_ show in order to reflect upon the entire classes projects. Did your song sound the same played on air? etc
+

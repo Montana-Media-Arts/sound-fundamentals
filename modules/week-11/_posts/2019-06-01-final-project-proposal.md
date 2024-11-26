@@ -18,12 +18,13 @@ The intent of this final project is for you to create an original sonic art work
 ## Deadlines
 
 - Final Project Deadline:
-	- Your final project will have three deadlines, a written propsal draft, an audio rough draft version, and final project submission. We will make comments and provide feedback after the proposal and first draft, and you will be expected to make appropriate adjustments and resubmit by the final version submission deadline.
+	- Your final project will have two deadlines, a written propsal draft and a final project submission. We will make comments and provide feedback after the proposal, and IF ASKED TO DO SO--you will be expected to make appropriate adjustments and resubmit by the final version submission deadline 
 		- 1st draft: **{{ site.data.dates.1st_draft}}**
 		- Final Version Deadline: **{{ site.data.dates.final_submission}}**
-	- Please note: I will need to spend Wednesday during the day preparing your works for radio presentation that evening. As such, we CANNOT ACCEPT ANY LATE WORK FOR THIS DEADLINE. Failure to submit on time will result in a failing grade for the course.
+	- Please note: I will need to spend Wednesday during the day preparing your works for radio presentation that evening. As such, we CANNOT ACCEPT ANY LATE WORK FOR THIS DEADLINE.
+
 	- This will allow me and the TA's to listen to each piece, to ensure that it is radio appropriate.
-	- Likewise, I will be mastering all of your final works, so that they are at the appropriate loudness levels and sound like they          "belong together".
+	- Likewise, I will be mastering all of your final works, so that they are at the appropriate loudness levels and sound like they  "belong together".
    	- Your final project proposals are due: This coming **{{ site.data.dates.final_proposal}}**.
 
 
@@ -33,7 +34,7 @@ The intent of this final project is for you to create an original sonic art work
 There are a number of factors for the final format for you to consider.
 
 - Length:
-	- 1 - 4 minutes.
+	- 1 - 3 minutes.
 	- Your final project can be anywhere between 1 and 4 minutes long.
 - Copyright Material:
 	- You must have all copyright for your work.
@@ -47,10 +48,9 @@ There are a number of factors for the final format for you to consider.
 
 ## Deliverables for Proposal
 
-For this coming Monday, please submit the following:
+For this coming Friday, please submit the following:
 
 1. A written description of what you propose to do for your final project.
-2. (_optional_): A brief, proof-of-concept, or mock-up of what you are proposing
 
 We will review these proposals and respond IF we see any problems or concerns. If you do not hear from us, please proceed with your project.
 

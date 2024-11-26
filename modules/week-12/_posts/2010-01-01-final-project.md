@@ -34,7 +34,7 @@ Unless we directly asked you to change something from your Final Project Proposa
 ## Deadlines
 
 - Final Project Deadline:
-	- Your final project will have two deadlines, a 1st draft, and a final version. We will make comments and provide feedback after the first draft, and you will be expected to make appropriate adjustments and resubmit by the final version submission deadline.
+	- Your final project will have two deadlines, a proposal draft, and a final Audio version. We will make comments and provide feedback after the first draft, and you will be expected to make appropriate adjustments and resubmit by the final version submission deadline.
 		- 1st draft deadline: **{{ site.data.dates.1st_draft}}**
 		- Final Version Deadline: **{{ site.data.dates.final_submission}}**
 			- Please note: I will need to spend Wednesday during the day preparing your works for radio presentation that evening. As such, we CANNOT ACCEPT ANY LATE WORK FOR THIS DEADLINE. Failure to submit on time will result in a failing grade for the course.
@@ -48,7 +48,7 @@ Unless we directly asked you to change something from your Final Project Proposa
 As we are planning on radio presentations, there are a number of factors for the final format for you to consider.
 
 - Length:
-	- 1 - 4 minutes.
+	- 1 - 3 minutes.
 	- Your final project can be anywhere between 1 - 4 minutes long.
 - Copyright Material:
 	- You must have all copyright for your work.
@@ -85,12 +85,10 @@ In addition to a digital audio file (as mentioned above) which constitutes the a
 		- finally, I would like you to also discuss briefly what skills or techniques you feel like you wanted to covered this semester that we did not get to
 - 2-3 Images of your Reaper session.
 - Your _bounced_ stereo audio file
-- _[OPTIONAL]_ You are also welcome to additionally submit the above 1-4 sentence description of your work as an audio recording. If you do this, and time allows, I will have that played on the radio, so that you can introduce your work.
-
 
 ## Submission
 
-Please, upload your final versions to Moodle by the posted deadline!
+Please, upload your final versions to Canvas by the posted deadline!
 
 ## Classmate Responses
 

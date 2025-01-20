@@ -18,10 +18,6 @@ Although this is an asynchronous class, there are a number of dates I want you t
 
 # Final Project Presentations
 
-TBD, Since there is 75 students taking this course, our normal final project is not going to work. I will be sending out an email in the next few weeks with a regarding what we will be doing instead.
-
-<!-- updating project , 75 students in the class, kt
-
 For the in-person version of this course, the end of the semester is marked by a public concert in which students present their final sonic artworks from the semester. Obviously, an in-person concert is not possible for the format of this course. Therefore, instead, the class will culminate with a radio festival presentation of your works.
 
 We are currently planning for this to occur via KBGA Missoula 89.9FM, College Radio
@@ -29,7 +25,6 @@ We are currently planning for this to occur via KBGA Missoula 89.9FM, College Ra
 With Bill Kautz "Something Else!" live Wednesdays 8-10pm(MT) & streaming at kbga.org. 
 Creative and Free Music.
 
--->
 
 ## Final Presentation Dates 
 

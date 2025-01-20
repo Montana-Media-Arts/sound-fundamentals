@@ -52,7 +52,7 @@ Kate's research interests are deeply rooted in the realm of sound. She focuses o
 
 In addition to myself, we will be supported with a two teaching assistant this semester.
 
-If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
+If you are unable to solve problems on your own using google or through asking your classmates, you should e-mail a TA for help.
 
 - [matthew.knight@umconnect.umt.edu]
   

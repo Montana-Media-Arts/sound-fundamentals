@@ -6,12 +6,13 @@ toc: false
 topic: The Three Listening Modes
 ---
 
+<!--
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Term63yDbfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
+-->
 
 
 Please read the following article on _The Three Listening Modes_ by Michel Chion.
-The article can be found on Canvas, via the Files tab.
+The article can be found on Canvas, in the week 1 module.
 
 <!--
 - [Article Link via Moodle](https://moodle.umt.edu/pluginfile.php/3769849/mod_resource/content/0/Chion-Modes_Of_Listening.pdf)

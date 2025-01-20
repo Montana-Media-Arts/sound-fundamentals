@@ -93,9 +93,8 @@ When you have problems in this course, you have a number of solutions available 
 4. Get help from our Graduate Teaching Assistants;
 
  	- [Matthew Knight, matthew.knight@umconnect.umt.edu](mailto:matthew.knight@umconnect.umt.edu?subject=245%20Question)
+        - [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
 
-
-	- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu)
 
 
 

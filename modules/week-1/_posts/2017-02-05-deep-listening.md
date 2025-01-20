@@ -35,11 +35,13 @@ On the official [Deep Listening website](https://www.deeplistening.rpi.edu/deep-
 >
 > Excerpt from ["Quantum Listening: From Practice to Theory (To Practice Practice)" by Pauline Oliveros. SoundArtArchive, December 1999.](https://s3.amazonaws.com/arena-attachments/736945/19af465bc3fcf3c8d5249713cd586b28.pdf)
 
+<!--
 ## Pauline in Her Own Words
 
 The following video is of Pauline Oliveros at a [TEDx Talk](https://www.youtube.com/user/TEDxTalks) discussing the difference between hearing and listening, as well as the birth of Deep Listening.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_QHfOuRrJB8" frameborder="0" allowfullscreen></iframe></div>
+-->
 
 
 <div class="ref">

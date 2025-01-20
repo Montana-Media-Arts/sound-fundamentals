@@ -75,36 +75,39 @@ When you have problems in this course, you have a number of solutions available 
 1. Google the problem.
     - A critical skill in creative technology and media art is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
 2. Post a discussion to the "Course help forum" on Canvas.
-   <!-- [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=2655589).
-   -->
 
 
 <!--
+
+[**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=2655589).
+ 
 [Course Forum in Moodle](https://discord.gg/nbVCKwX)
 
  Discord is like a massive chat where everyone can talk to one another in real time and help each other out with issues or just chat.
-3. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-examples/issues).
+ Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-examples/issues).
 
     - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
     - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
-    -->
+
+-->
 
 
-4. Get help from our Graduate Teaching Assistants;
+3. Get help from our Graduate Teaching Assistants;
 
- 	- [Matthew Knight, matthew.knight@umconnect.umt.edu](mailto:matthew.knight@umconnect.umt.edu?subject=245%20Question)
-        - [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
+ - [Matthew Knight, matthew.knight@umconnect.umt.edu](mailto:matthew.knight@umconnect.umt.edu?subject=245%20Question)
+ - [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
+       
+
+4. Get help from the Instructor;
+ - [Kate Lloyd, kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
 
 
-
-
-3. Get help from the Instructor;
-	- [Kate Lloyd, kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
+ <br /> 
 
 
 <!-- 
 
-5. Get help from the Director [Michael Musick]({{site.baseurl}}/instructors/)
+ Get help from the Director [Michael Musick]({{site.baseurl}}/instructors/)
     - If you have a problem, or need help that no one can offer, please contact Michael Musick.
     - One way to get a hold of me is to schedule a zoom, office hours appointment with me via [Calendly]  ({{site.baseurl}}/instructors/#Office-Hours). 
     
@@ -114,7 +117,7 @@ When you have problems in this course, you have a number of solutions available 
 
 
 
-<br />
+
 
 
 #### { NOTE: }

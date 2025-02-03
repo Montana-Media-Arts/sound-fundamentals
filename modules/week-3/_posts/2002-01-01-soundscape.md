@@ -48,7 +48,7 @@ Please also read through page 28 (Introduction and Part One) of;
 
 - [Schafer, R. Murray. The Soundscape: Our Sonic Environment and the Tuning of the World. Inner Traditions/Bear, 1993.](https://moodle.umt.edu/pluginfile.php/3769825/mod_resource/content/0/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf)--
 
---> kt
+--> 
 
 
 # Acoustic Ecology

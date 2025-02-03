@@ -80,7 +80,7 @@ The following work, "La Selva", is from musician and sound artist Francisco Lóp
 ## Interesting Sound Artists in Field Recording
 
 
-> Please also read the following article (and listen to examples) exploring 10 field recording based sound artists.
+> Please read the following article (and listen to atleast one example) exploring 10 field recording based sound artists.
 >
 > [10 of the Most Interesting Field Recordists Working Across Aesthetic Boundaries – Soundfly](https://flypaper.soundfly.com/discover/10-of-the-most-interesting-field-recordists-working-across-aesthetic-boundaries/)
 

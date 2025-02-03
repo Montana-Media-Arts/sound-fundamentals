@@ -50,7 +50,7 @@ kt
 I would also like you to read the following two articles further discussing soundwalks.
 -->
 
-OPTIONAL -I highly recommend reading these two short soundwalk guides before starting your soundwalk. It will help you plan and offer ideas/sugestions and give you a better idea on what I am looking for in this weeks homework assignments.
+Please read these two short soundwalk guides before starting your soundwalk. It will help you plan and offer ideas/sugestions and give you a better idea on what I am looking for in this weeks homework assignments.
 
 - [_Soundwalking_ by Hildegard Westerkamp, 2001.](https://www.hildegardwesterkamp.ca/writings/writingsby/?post_id=13&title=soundwalking)
 - [_A Pocket Guide to Soundwalking_. Antonella Radicchi, 2017. (PDF Download)](https://github.com/Montana-Media-Arts/intro-to-sonic-arts/raw/master/resources/Radicchi_2017_A-Pocket-Guide.pdf)

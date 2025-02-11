@@ -10,11 +10,17 @@ cover_image_file: automation-header.svg
 
 
 <br />
-I recommend following along with the video as you work in Reaper. The information below is a repeat/reminder of how to do specific edits. Start here!
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WMLLaSZbTqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **_Automation_** allows the sound engineer the ability to automate, with respect to time, various parameters within the DAW. One of the most used parameters for automation, and the one we will demo first, is track fader gain. By automating fader gain, we can create mixes where individual sound sources change in volume, with respect to time, in the same way every time we playback the work. This allows the engineer the opportunity to build up complex works.
+
+## I recommend following along with this video as you work in Reaper. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ckjl-rpzDPA?si=to393Rq_Z8xv5EcL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+# The information below is a repeat/reminder of how to do specific edits. Start here!
+
 
 Like [fades]({{site.baseurl}}/modules/week-3/DAW-Techniques/#fades), automation "envelopes" can be shown visually in relation to an audio section. For every moment in time, the audio file is multiplied by the gain amount represented in the automation envelope, resulting in a new volume for the audio at that moment in time. The below image shows two tracks. The upper track is an original audio file of rain. Laid on top of the track is a gain automation envelope (the green line). The lower track shows the resulting audio file; notice how the audio shape now follows the gain automation envelope shape.
 

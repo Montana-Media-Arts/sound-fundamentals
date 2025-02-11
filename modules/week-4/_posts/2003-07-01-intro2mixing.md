@@ -12,7 +12,77 @@ cover_image_file: mixing-header.png
 <br />
 
 
+# 🎛️ Understanding Mixing: A Beginner's Guide  
+
+## What is Mixing?  
+Mixing is the process of **balancing and blending sounds** to create a final piece that sounds good from start to finish. Think of it like cooking—each ingredient (sound) needs to be in the right amount so no single flavor (sound) overpowers the rest.
+
+Mixing has **two main goals**:  
+1. **Make all the sounds work together** so they don’t clash.  
+2. **Make the final project sound as good as possible** for its intended purpose (music, film, podcast, etc.).  
+
+Mixing can involve **hundreds of layers** of sound or just a single track, but the same principles apply: **balance, clarity, and impact.**  
+
+---
+
+## 🎨 Creative Mixing: The Art of Balance  
+Mixing isn’t just about making things sound "right"—it’s a creative tool, too! It affects **how listeners experience your work** by controlling loudness, space, and movement.
+
+### 1️⃣ Volume & Loudness (Amplitude)  
+- The **loudness of each sound** affects how it stands out in the mix.  
+- Adjusting volume levels changes how different sounds interact.  
+- **Example:** In a song, the lead vocals are usually louder than background instruments.  
+
+### 2️⃣ Sudden Volume Changes  
+- A sound can suddenly get **louder or quieter** for dramatic effect.  
+- **Example:** A sudden silence before a big bass drop in a song.  
+
+### 3️⃣ Gradual Volume Changes (Crescendos & Decrescendos)  
+- **Crescendo** → Gradually increasing volume (build-up).  
+- **Decrescendo** → Gradually decreasing volume (fade-out).  
+- **Example:** Movie scores often build tension by slowly increasing the volume.  
+
+### 4️⃣ Stereo Placement (Panning)  
+- Sounds can be placed **left, right, or center** in the stereo field.  
+- **Example:** In most music, the lead vocals and bass are centered, while backing instruments are spread out.  
+- Moving sounds from one side to another catches the listener’s attention.  
+
+---
+
+## 🎚️ Technical Mixing: Making It Sound Professional  
+Technical mixing is about **polishing the sound**—not changing the artistic intent, but making sure everything is **clear and even**.
+
+### ✅ Key technical mixing goals:
+- **Making sure you don’t have to keep adjusting the volume** while listening.  
+- **Ensuring all important sounds are clear** and not lost in the mix.  
+- **Avoiding harsh or distracting frequencies** that hurt the ears.  
+
+🎧 **Good mixing means the listener can focus on the experience—not on fixing their volume knob!**  
+
+---
+
+## 🔄 How Creative & Technical Mixing Work Together  
+Creative and technical mixing overlap. Sometimes, while adjusting a mix, you realize a creative change is needed. Other times, a creative choice means tweaking the mix for clarity. The more you practice, the better you’ll get at balancing these roles!
+
+**Remember—mixing is about both art and science.** It shapes how your work feels, and it ensures everything sounds clear and professional.
+
+---
+
+## 🎬 Take Action!  
+- **Experiment with volume adjustments in your DAW.**  
+- **Play around with panning—see how different placements affect the sound.**  
+- **Try using crescendos or sudden volume drops for impact.**  
+
+🔊 **The best way to learn mixing is by doing it—so trust your ears and have fun!** 🚀  
+
+
+
+
+
+
+<!--
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fYFpCF0m52M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 **_Mixing_**, for me, has two goals. The first is to get all of the sounds the constitute a sonic art work/project to work together. The second goal is to create the most meaningful representation of the piece that is possible for the desired output medium or mode of presentation.
 
@@ -92,7 +162,7 @@ This idea of _even-ness_ is a significant one, especially when working in popula
 
 In the meantime, as you are work on your individual projects, I encourage you to try and change the "hat". Where at some point you stop listening as a creator, but instead listen to whether the "mix" sounds even. Do you feel a need to adjust volume constantly, can you hear everything you want to at all moments, is the work even with respect to timbre and harshness?
 
-<!-- moving to end as extra resources--kt
+ moving to end as extra resources--kt
 ## **_{ TODO: }_**
 
 In addition to the above reading, please also read chapters 1-4 in;

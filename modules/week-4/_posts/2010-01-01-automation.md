@@ -10,7 +10,7 @@ cover_image_file: automation-header.svg
 
 
 <br />
-
+I recommend following along with the video as you work in Reaper. The information below is a repeat/reminder of how to do specific edits. Start here!
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WMLLaSZbTqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

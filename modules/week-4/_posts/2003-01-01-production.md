@@ -14,7 +14,50 @@ cover_image_file: head-image-lifecycle.svg
 
 
 
+
+ Introduction to Editing & Mixing in Sound Production  
+
+This week, we're diving into **editing and mixing**—two core techniques in audio production. These skills are essential for creating sonic art, music, podcasts, film sound, theater sound, and more.  
+
+ What is Audio Production?  
+Audio production involves everything from recording and composing to editing, mixing, and preparing sound for distribution. Whether you're in a studio or working digitally with a **Digital Audio Workstation (DAW)**, these tools help bring your sound ideas to life.  
+
+ The Production Process  
+
+1. **Idea & Creation** – Every project starts with an idea. It could be a random thought, an assignment, or an experiment. From there, you gather or create sounds—recording, synthesizing, coding, or composing.  
+
+2. **Editing** – This stage shapes your sounds creatively and technically:  
+   - **Creative Editing**: Experimenting with sound relationships, layering, adding silence, and shaping artistic intent.  
+   - **Technical Editing**: Cleaning up recordings—removing noise, fixing timing, and ensuring clarity.  
+
+3. **Mixing** – This step balances all sound elements in your project, adjusting:  
+   - **Volume (amplitude relationships)**  
+   - **Positioning (left/right, front/back, big/small spaces)**  
+   - **Frequency (EQ adjustments, clarity between elements)**  
+   - **Effects (reverb, compression, etc.)**  
+   Mixing also has creative and technical aspects:  
+   - **Creative Mixing** enhances artistic choices.  
+   - **Technical Mixing** ensures a polished, cohesive sound.  
+
+4. **Mastering** – The final polish. This step preps your mix for distribution, ensuring consistency across different listening environments (streaming, vinyl, film, etc.). Mastering is mostly technical, focusing on volume, clarity, and balance across multiple projects.  
+
+5. **Presentation & Distribution** – The last step is sharing your work! Whether it's an album, a film score, a podcast, or an installation, this is when your sound reaches its audience.  
+
+The Overlapping Process  
+These steps don’t always happen in a neat order—sometimes they overlap. A creative edit might lead to a new mix decision, or a mix tweak might require more editing. That’s normal! Just be aware of **what stage you’re in**:  
+- If you're experimenting, **stay creative**.  
+- If you're refining, **think technically**.  
+
+ Real-World Example  
+In professional projects, different people handle each stage—producers, engineers, artists, and mastering specialists. But for now, you’re learning to do it all. Mastering these skills will help you create and present your work professionally, no matter your future direction.  
+
+
+
+
+<!--
+
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8DyQnILUpnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 
 We are starting to move into conversations about editing and mixing techniques this week. These two terms are central to the idea of sound or audio production, which will be considered a part of and necessary to the practice of sonic art.
@@ -110,6 +153,8 @@ This idea of being specific in your production process focus is difficult. That 
 - a mix engineer, who works to insure all of the individual parts/instruments/voices on a project blend together in a cohesive way
 - a mastering engineer who prepares the final mix for distribution
 - a distributor, who oversees the production of hard copies, or the delivery of a project to streaming services, etc.
+
+-->
 
 
 <br />

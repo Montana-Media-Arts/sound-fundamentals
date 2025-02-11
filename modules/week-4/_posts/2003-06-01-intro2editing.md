@@ -50,7 +50,7 @@ Controlling the speed of events to set a mood (fast for excitement, slow for ten
 
 Deciding how many sounds should play at once (a busy, layered sound vs. a minimal, open sound).
 
-![texture editing reaper](../imgs/TensionRelease.svg "Graphic for Tension & Release")
+![texture-layering](../imgs/texture-layering.jpg "Image for Texture Layering")
 
 Think of creative editing like arranging pieces of a puzzle to tell a story with sound.
 

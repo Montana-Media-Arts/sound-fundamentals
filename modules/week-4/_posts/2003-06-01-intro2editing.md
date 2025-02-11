@@ -11,7 +11,86 @@ cover_image_file: editing-header.png
 
 <br />
 
+## What is Editing?
 
+Editing is how we cut, arrange, and clean up audio to create a final sound piece. Back in the day, people had to physically cut and tape audio recordings together (imagine slicing film strips for a movie). Now, we can do everything digitally using a DAW (Digital Audio Workstation)—which makes editing faster, easier, and way more flexible.
+
+Editing serves two big purposes:
+
+- Creative Editing – Shaping the artistic vision of your piece.
+- Technical Editing – Cleaning up the sound for clarity and professionalism.
+
+ ## Creative Editing: The Art of Sound Design
+
+This is where editing becomes part of the creative process. Instead of just fixing mistakes, you’re making artistic decisions—deciding when and how sounds happen in time.
+
+Some key creative editing techniques include:
+
+## Form  
+How a piece is structured (for example, repeating sections like an ABA form).
+
+
+![Example of ABA form.](../imgs/form-img.svg "Example of ABA form.")
+
+- In lyrical writing it might look like this:
+-  **A**  represents a Verse
+-  **B**  represents the Chorus
+-  ABA = Verse, Chorus, Verse
+
+## Tension & Release 
+
+![Graphic for Tension & Release](../imgs/TensionRelease.svg "Graphic for Tension & Release")
+
+Building up moments of anticipation and resolving them (common in music, film, and storytelling).
+
+## Pacing  
+Controlling the speed of events to set a mood (fast for excitement, slow for tension).
+
+## Texture 
+
+Deciding how many sounds should play at once (a busy, layered sound vs. a minimal, open sound).
+
+![texture editing reaper](../imgs/TensionRelease.svg "Graphic for Tension & Release")
+
+Think of creative editing like arranging pieces of a puzzle to tell a story with sound.
+
+
+
+ ## Technical Editing: Making Sound Clean & Clear
+ 
+While creative editing is about what sounds good artistically, technical editing is about what sounds good technically. It helps remove distractions and makes sure everything fits together smoothly.
+
+Some key technical editing tasks include:
+
+## Removing Unwanted Noise 
+
+- Cutting out breath sounds, hums, clicks, and background noise.
+
+## Fixing Timing Issues 
+
+- Making sure beats, words, or sound effects line up correctly.
+
+## Editing for Length
+
+- Adjusting a piece to fit a time limit (important for radio, film, or podcasts).
+
+## Improving Clarity
+
+- Making sure the most important sounds stand out and aren’t drowned out by others.
+
+Good editing makes sure the listener hears what’s important without distractions.
+
+## How Editing & Mixing Work Together
+
+Editing and mixing often overlap. Sometimes, while mixing (adjusting volume, panning, and effects), you might realize you need to re-edit something. The more you practice, the better you’ll get at knowing when to switch between these roles.
+
+Editing is about shaping the sound. Mixing is about balancing it. Together, they make your final product polished and professional.
+
+## For this week:
+- I want you to continue working with this same tool palette. Instead, I want you to focus on the new tools that will be introduced in the mixing proceeding pages on mixing.
+
+
+<!-- kt 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VeD2uCE-14Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
@@ -114,5 +193,6 @@ You have already been exposed to many of the tools you need for editing. This in
 - the ability to split an audio item into multiple items
 - the ability to splice items together in time
 - the ability to delete portions of an audio item
+-->
 
-For this week, I want you to continue working with this same tool palette. Instead, I want you to focus on the new tools that will be introduced in the mixing proceeding pages on mixing.
+

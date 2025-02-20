@@ -17,7 +17,7 @@ Please watch the following video to get information on working with MIDI in Reap
 
 > The proceeding pages correspond to the content in this video.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bbdU7H_KDNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div <iframe width="560" height="315" src="https://www.youtube.com/embed/pD-qO6i98WU?si=Q2BXPzzjBDn-lv_x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 # Getting MIDI Setup in Reaper
 

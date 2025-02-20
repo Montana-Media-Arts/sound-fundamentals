@@ -7,6 +7,11 @@ math: false
 topic: More Information About Sound
 ---
 
+It is hard to imagine what sine waves look like,  here is a pretty neat video called Singing Plates: using standing soundwaves to create cool patterns!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wYoxOJDrZzw?si=j1KpLwygbi1TWYk2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!--
 As we are starting to get a full grasp of sound, there are a few more external resources I want you to work through.
 
 First is this charming old video about sound. I hope you enjoy how it offers a slightly different take on the topics we have been discussing from the last two weeks.
@@ -22,3 +27,4 @@ Please read from an **Introduction to Computer Music**:
     - Please note that there are 4 pages.
 - [Acoustics Chapter One: Phase](https://cmtext.indiana.edu/acoustics/chapter1_phase.php)
     - Please note that there are 3 pages.
+-->

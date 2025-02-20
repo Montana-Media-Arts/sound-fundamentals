@@ -21,7 +21,7 @@ A **plug-in** is a separate software program that runs inside a DAW, adding new 
 ## 🔌 Plug-In Formats
 Just like video or document files come in different formats, plug-ins also have various types. Some DAWs only support certain plug-in formats due to **optimization, system architecture, or licensing issues**.
 
-### 🏆 What Plug-Ins Work in Reaper?
+###  What Plug-Ins Work in Reaper?
 Reaper supports **VST-based** plug-ins.
 
 - **VST (Virtual Studio Technology)** was developed by Steinberg Media Technologies.
@@ -36,71 +36,13 @@ To expand Reaper’s functionality, let’s install some plug-ins! These are **f
 
 ---
 
-## 📡 1. SocaLab Tone Generator (Sine Wave Oscillator)
+##  1. SocaLab Tone Generator (Sine Wave Oscillator)
 **Download link:** [SocaLab Tone Generator](https://socalabs.com/developer-tools/tonegenerator/)
 
 ### 🖥 macOS Installation:
 1. Open **Finder**.
 2. Go to **Go > Go To Folder…**.
-3. Type:
-   ```sh
-   /Library/Audio/Plug-Ins/
-
-
-```markdown
-# Plug-In Formats & Installation Guide
-
-## 🎛️ Why Use Plug-Ins?
-Reaper, like most DAWs, is an insanely powerful tool for working with audio. But even with all its built-in capabilities, sometimes you need extra features—this is where **plug-ins** come in!
-
-A **plug-in** is a separate software program that runs inside a DAW, adding new features, effects, or instruments. Reaper (like all modern DAWs) can host third-party plug-ins, expanding your creative possibilities. 
-
----
-
-## 🔌 Plug-In Formats
-Just like video or document files come in different formats, plug-ins also have various types. Some DAWs only support certain plug-in formats due to **optimization, system architecture, or licensing issues**.
-
-### 🏆 What Plug-Ins Work in Reaper?
-Reaper supports **VST-based** plug-ins.
-
-- **VST (Virtual Studio Technology)** was developed by Steinberg Media Technologies.
-- If a plug-in is available in **VST format** and is compatible with your operating system, you can use it in Reaper.
-
-> **Note:** There are two versions of VST you might encounter: **VST** and **VST3**. Reaper supports both!
-
----
-
-## 🎯 Install Your First Plug-Ins
-To expand Reaper’s functionality, let’s install some plug-ins! These are **freeware plug-ins**, meaning they don’t come with fancy installers, so we’ll install them manually.
-
----
-
-## 📡 1. SocaLab Tone Generator (Sine Wave Oscillator)
-**Download link:** [SocaLab Tone Generator](https://socalabs.com/developer-tools/tonegenerator/)
-
-### 🖥 macOS Installation:
-1. Open **Finder**.
-2. Go to **Go > Go To Folder…**.
-3. Type:
-   ```sh
-   /Library/Audio/Plug-Ins/
-   ```
-4. Open the **VST** directory.
-5. Drag and drop the `.vst` file from `ToneGenerator_Mac` into this folder.
-6. If prompted, enter your **system password** to authenticate.
-7. **Restart Reaper**.
-
-> **Note:** If the `/Library/Audio/Plug-Ins/VST` folder does not exist, you may need to create it manually.
-
-![Example of dropping in the file. ](../imgs/macAddVST.gif "Example of dropping in the file. ")
----
-
-### 🖥 Windows Installation:
-1. Open **File Explorer**.
-2. Navigate to:
-   ```sh
-   C:\Program Files\VSTPlugins\
-   ```
+3. Type:/Library/Audio/Plug-Ins/
 3. Drag and drop `ToneGenerator_64b.dll` into this folder.
 4. **Restart Reaper**.
 

@@ -15,9 +15,9 @@ MIDI works quite easily in Reaper, however, we need to follow a few specific pro
 
 Please watch the following video to get information on working with MIDI in Reaper.
 
-> The proceeding pages correspond to the content in this video.
+The proceeding pages correspond to the content in this video.
 
-<div <iframe width="560" height="315" src="https://www.youtube.com/embed/pD-qO6i98WU?si=Q2BXPzzjBDn-lv_x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/pD-qO6i98WU?si=Q2BXPzzjBDn-lv_x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 # Getting MIDI Setup in Reaper
 

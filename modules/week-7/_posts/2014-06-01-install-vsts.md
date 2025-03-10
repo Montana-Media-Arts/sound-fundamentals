@@ -52,9 +52,6 @@ To expand Reaper’s functionality, let’s install some plug-ins! These are **f
 1. Open Reaper.
 2. Add an FX to a track.
 3. In the **Add FX** window, search for:
-   ```
-   tonegenerator
-   ```
 4. Select and load the plug-in.
 
 ---
@@ -71,7 +68,7 @@ To expand Reaper’s functionality, let’s install some plug-ins! These are **f
 
 ---
 
-## 🎛️ 2. SoundHack Delay Bundle
+## 2. SoundHack Delay Bundle
 This next set of plug-ins is from **Tom Erbe’s SoundHack project**.
 
 **Download link:** [SoundHack Delay Bundle](http://www.soundhack.com/freeware/)
@@ -88,7 +85,7 @@ These plug-ins come with automatic installers, making installation **super easy*
 - **[Valhalla Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)**
 - **[Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)**
 
-### 🏗️ Installation:
+### Installation:
 1. Download the installer.
 2. Run it and follow the instructions.
 3. Restart Reaper and enjoy!
@@ -100,14 +97,14 @@ Another great plug-in with an automated installer!
 
 **Download link:** [Rubbadub - ++Audio](https://www.interruptor.ch/vst_overview.shtml)
 
-### 🏗️ Installation:
+###  Installation:
 1. Download the installer.
 2. Run it and follow the instructions.
 3. Restart Reaper and enjoy!
 
 ---
 
-## 🎉 Wrapping Up
+## Wrapping Up
 Now you have an expanded arsenal of plug-ins in Reaper! If you run into any issues, double-check the installation paths and try rescanning in **Reaper Preferences > VST**.
 
 🚀 **Time to make some noise!**

@@ -44,7 +44,7 @@ Please watch this short video on how to install the vst plugins. Two things stoo
 
 3. Make sure to "record enable" your track to hear the tone generator.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pD-qO6i98WU?si=DaljVpHlXYioIssO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMgZD-mna7U?si=iRiI3DiHlDrvP5EB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Video Demo PC

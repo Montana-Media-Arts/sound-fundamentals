@@ -34,6 +34,25 @@ Reaper supports **VST-based** plug-ins.
 ## 🎯 Install Your First Plug-Ins
 To expand Reaper’s functionality, let’s install some plug-ins! These are **freeware plug-ins**, meaning they don’t come with fancy installers, so we’ll install them manually.
 
+## Video Demo Mac
+
+Please watch this short video on how to install the vst plugins. Two things stood out to me while making this video that might cause confusion.
+
+1. when downloading from the website, right click the download bottom and select downloadlinked file. For whatever reason, when I clicked the download button--it was an empty file. Right click, save file.
+
+2. Once in Reaper and when trying to add the plugin. If you search for tone generator in the VST tab,  it may not come up--look for NEW and it is there. This will make more sense when you watch.
+
+3. Make sure to "record enable" your track to hear the tone generator.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pD-qO6i98WU?si=DaljVpHlXYioIssO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Video Demo PC
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2AOMEFevihA?si=UiFDYSU_1bbRiLhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ---
 
 ##  1. SocaLab Tone Generator (Sine Wave Oscillator)
@@ -108,7 +127,7 @@ Another great plug-in with an automated installer!
 Now you have an expanded arsenal of plug-ins in Reaper! If you run into any issues, double-check the installation paths and try rescanning in **Reaper Preferences > VST**.
 
 🚀 **Time to make some noise!**
-```
+
 
 
 
@@ -215,9 +234,10 @@ Finally, please install the "Rubbadub" delay plug-in from ++audio.
 
 Like the Valhalla Plug-Ins, these include an automated installer.
 
--->
+
 
 
 ## Video Demo
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pKbJTAg3vJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+-->

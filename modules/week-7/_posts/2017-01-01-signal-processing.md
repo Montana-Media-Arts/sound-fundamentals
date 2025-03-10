@@ -9,8 +9,8 @@ topic: Further with Signal Processing & Plug-Ins
 
 
 
-## **_{ TODO: }_**
+## **_{ OPTIONAL: }_**
 
-Please read the following from **Introduction to Computer Music**:
+OPTIONAL reading from **Introduction to Computer Music**:
 
 - [Studio Gear Chapter Two: Signal Processing](https://cmtext.indiana.edu/studio/chapter2_effects.php)

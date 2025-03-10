@@ -113,9 +113,9 @@ The last basic type of signal generator is the so-called triangle wave. Like the
 ![Visual example of a 100Hz triangle wave.](../imgs/100-tri.png "Visual example of a 100Hz triangle wave.")
 
 
-## **_{ TODO: }_**
+## **_{ Optional: }_**
 
-Please read from an **Introduction to Computer Music**:
+If interested, read from an **Introduction to Computer Music**: This is not required reading.
 
 - [Synthesis Chapter Four: History](https://cmtext.indiana.edu/synthesis/chapter4_synthesis_history.php)
     - Please note that there is only 1 page.

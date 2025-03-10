@@ -79,10 +79,16 @@ One of the first commercially successful compositions for synthesizer was by Mor
 
 # **_{ TODO: }_**
 
-Please also read the chapter on Synthesis in the Indiana University textbook. _Read the technical information closely. When they start talking about VCV Racks, you can choose whether you want to continue following along or not._
+Please take a peek at the chapter on Synthesis-ENVELOPES. Notice anything? The images look a lot like automating in Reaper!
+Recources: Indiana University textbook. 
+
+- [Synthesis Chapter Four: Envelopes](https://cmtext.indiana.edu/synthesis/chapter4_envelopes.php)
+
+  # OPTIONAL READING
+
+  Below are more chapters on synthesis--this is NOT required readdiing
 
 - [Synthesis Chapter Four: Synthesis Concepts](https://cmtext.indiana.edu/synthesis/chapter4_synthesis_concepts.php)
-- [Synthesis Chapter Four: Envelopes](https://cmtext.indiana.edu/synthesis/chapter4_envelopes.php)
 - [Synthesis Chapter Four: The Basic Patch](https://cmtext.indiana.edu/synthesis/chapter4_patches.php)
 - [Synthesis Chapter Four: Modulation](https://cmtext.indiana.edu/synthesis/chapter4_modulation.php)
 - [Synthesis Chapter Four: Audio-rate FM Synthesis](https://cmtext.indiana.edu/synthesis/chapter4_fm.php)
